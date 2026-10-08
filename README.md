@@ -8,7 +8,7 @@ A beautiful, pixel-perfect custom **Circular Checkbox UI** implemented in Flutte
 
 Here is the final look of the implemented UI design:
 
-![[asset/images/registration_page.png]]
+![Registration Page UI](asset/images/registration_page.png)
 
 ---
 
